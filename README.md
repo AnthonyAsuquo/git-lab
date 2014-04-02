@@ -9,3 +9,6 @@ Bob: John Ellis <johnhell@usc.edu> [@JHEllis](https://github.com/JHEllis)
 Wednesday 2PM lab
 
 ![Homer Cat](https://octodex.github.com/images/homercat.png)
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
